@@ -8,3 +8,7 @@ The dataset used is downloaded from Kaggle
 
 Here,Transfer Learning was used with ResNet50 loaded on pretrained weights and adding few custom layers on it for higher accuracy.
 
+</br>
+
+![alt text](https://github.com/Shivam241298/Detecting-Pneumonia-in-Chest-X-Rays/blob/master/download%20(3).png)
+
